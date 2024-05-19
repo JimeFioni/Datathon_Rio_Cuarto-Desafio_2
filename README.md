@@ -47,6 +47,8 @@ Crear una tercera hoja relacionando ambos Dashboards!
 
 ### **Dashboard** 🏆🎖
 
+El reporte generado se encuentra disponible para su visulalización en la web del proyecto [WEB](https://app.powerbi.com/view?r=eyJrIjoiOWNiYjAyZjAtZTQ2Ni00ZDIwLThlYzYtMmM0ZmVjMGRkYTY1IiwidCI6ImJlNjNiYWNjLWQxZjUtNDgyNS05ZmFmLWQ1Njk5NWRiOTk4OCIsImMiOjR9)
+
 Análisis Local
 <div align="center">
   <img src='./images/Analisis Local.JPG'>
