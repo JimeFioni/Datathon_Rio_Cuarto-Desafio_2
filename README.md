@@ -1,6 +1,16 @@
-# Datathon Río Cuarto - Córdoba - ARG (Desafio 2)
+# Datathon Río Cuarto - Córdoba - ARG (Desafio 2) 🏆🎖
 
-Datathon
+<div align="center">
+  <img src='./images/datathon.jpg'>
+  <br> 
+</div>
+
+
+## Skillset 
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+
+## Datathon
+🎉 **Este fue el dashboard ganador** 🎉🎆🏆🎖 <br>
 
 Introducción al Desafío de Power BI: Abordando el Bullying Escolar
 
@@ -24,13 +34,19 @@ Crear un Dashboard completo utilizando el dashboard proporcionado en SQL Server,
 
 Crear una tercera hoja relacionando ambos Dashboards!
 
-Criterios de evaluación:
+### **Criterios de evaluación**: 🏆🎖
 
-Cumplimiento de Requisitos: Verificaremos si el proyecto cumple con los requisitos del desafío, como la temática, el alcance, y los criterios específicos establecidos en cada hoja.
-Correcto uso de las Visualizaciones: Considera la sofisticación y la eficacia de las visualizaciones utilizadas para transmitir la información de manera efectiva.
-Diseño Visual: Evalúa la estética general del informe, incluyendo el uso de colores, tipografía, y disposición de elementos visuales.
-Calidad de los Datos: Se evaluará la precisión y la integridad de los datos utilizados en el informe, así como la calidad del proceso de limpieza y transformación.
-Narrativa y Flujo de la Historia: Se evaluará si el informe cuenta una historia coherente y si guía al espectador a través de los datos de manera lógica y convincente, tanto como la comunicación de los mismos.
-Impacto y Relevancia: Analizaremos el valor y la relevancia de los insights presentados en el informe, así como su capacidad para influir en la toma de decisiones.
-Originalidad y Creatividad: Tendrá como foco el uso innovador de características de Power BI y la creatividad en el diseño y la presentación de los datos.
-Interactividad: Observa la interactividad del informe, como filtros, segmentación, etc.
+- Cumplimiento de Requisitos: Verificaremos si el proyecto cumple con los requisitos del desafío, como la temática, el alcance, y los criterios específicos establecidos en cada hoja.
+- Correcto uso de las Visualizaciones: Considera la sofisticación y la eficacia de las visualizaciones utilizadas para transmitir la información de manera efectiva.
+- Diseño Visual: Evalúa la estética general del informe, incluyendo el uso de colores, tipografía, y disposición de elementos visuales.
+- Calidad de los Datos: Se evaluará la precisión y la integridad de los datos utilizados en el informe, así como la calidad del proceso de limpieza y transformación.
+- Narrativa y Flujo de la Historia: Se evaluará si el informe cuenta una historia coherente y si guía al espectador a través de los datos de manera lógica y convincente, tanto como la comunicación de los mismos.
+- Impacto y Relevancia: Analizaremos el valor y la relevancia de los insights presentados en el informe, así como su capacidad para influir en la toma de decisiones.
+- Originalidad y Creatividad: Tendrá como foco el uso innovador de características de Power BI y la creatividad en el diseño y la presentación de los datos.
+- Interactividad: Observa la interactividad del informe, como filtros, segmentación, etc.
+
+### **Dashboard** 🏆🎖
+<div align="center">
+  <img src='./images/Ac'>
+  <br> 
+</div>
