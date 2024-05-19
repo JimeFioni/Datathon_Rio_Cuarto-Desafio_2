@@ -47,6 +47,11 @@ Crear una tercera hoja relacionando ambos Dashboards!
 
 ### **Dashboard** 🏆🎖
 <div align="center">
-  <img src='./images/Ac'>
+  <img src='./images/Analisis Local.JPG'>
+  <br> 
+</div>
+
+<div align="center">
+  <img src='./images/Analisis Nacional.JPG'>
   <br> 
 </div>
