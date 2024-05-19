@@ -46,12 +46,15 @@ Crear una tercera hoja relacionando ambos Dashboards!
 - Interactividad: Observa la interactividad del informe, como filtros, segmentación, etc.
 
 ### **Dashboard** 🏆🎖
+
+Análisis Local
 <div align="center">
   <img src='./images/Analisis Local.JPG'>
   <br> 
 </div>
 
+Análisis Nacional
 <div align="center">
-  <img src='./images/Analisis Nacional.JPG'>
+  <img src='./images/Análisis Nacional.JPG'>
   <br> 
 </div>
